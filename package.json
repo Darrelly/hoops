@@ -1,0 +1,13 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^23.0.0",
+    "react": "16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
+    "react-native-calendar": "^0.13.1"
+  },
+  "scripts": {
+    "start": "node App.js"
+  }
+}
